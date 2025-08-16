@@ -1,0 +1,33 @@
+site_name: "Curso HTML Básico"
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.top
+    - navigation.sections
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+nav:
+  - Inicio: index.md
+  - Módulos:
+    - M00 · Introducción a la Web y a HTML: m00-introduccion.md
+    - M01 · Estructura mínima del documento: m01-estructura-documento.md
+    - M02 · Texto, párrafos y semántica de texto: m02-texto-parrafos.md
+    - M03 · Enlaces y rutas: m03-enlaces-rutas.md
+    - M04 · Imágenes y multimedia básico: m04-imagenes-multimedia.md
+    - M05 · Listas: m05-listas.md
+    - M06 · Tablas: m06-tablas.md
+    - M07 · Semántica HTML5 esencial: m07-semantica-html5.md
+    - M08 · Atributos globales: m08-atributos-globales.md
+    - M09 · Metadatos y SEO básico: m09-metadatos-seo-basico.md
+    - M10 · Formularios I: m10-formularios-i.md
+    - M11 · Formularios II: m11-formularios-ii.md
+    - M12 · Accesibilidad esencial: m12-accesibilidad-esencial.md
+    - M13 · Validación y buenas prácticas: m13-validacion-buenas-practicas.md
+    - M14 · Proyecto A – Portfolio solo HTML: m14-proyecto-portfolio.md
+    - M15 · Proyecto B – Docs técnica: m15-proyecto-docs-tecnica.md
+  - Apéndices:
+    - Glosario: apendice-glosario.md
+    - Cheatsheet: apendice-cheatsheet.md
+    - Recursos: recursos.md

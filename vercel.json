@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "buildCommand": "pip install -r requeriments.txt && python -m mkdocs build --clean",
+  "outputDirectory": "site"
+}

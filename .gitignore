@@ -1,0 +1,14 @@
+# MkDocs
+site/
+
+# Python envs
+.venv/
+venv/
+env/
+*.pyc
+__pycache__/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
